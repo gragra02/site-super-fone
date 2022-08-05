@@ -75,4 +75,14 @@
         color: #fff !important;
     }
 
+    .shape1 {
+        
+        right: -192px !important;
+        width: 159% !important;
+    }
+
+    .shape2{
+        right: -192px !important;
+    }
+
 }
